@@ -8,7 +8,15 @@
     <Authors>AR Software</Authors>
     <Description>Enumeraciones de los catalogos de CFDI.</Description>
     <Version>1.0.0</Version>
+    <PackageIcon>AR_LOGO03_128_128.jpg</PackageIcon>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\..\images\AR_LOGO03_128_128.jpg">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
 
   <ItemGroup>
     <PackageReference Include="Ardalis.SmartEnum" Version="7.0.0" />
