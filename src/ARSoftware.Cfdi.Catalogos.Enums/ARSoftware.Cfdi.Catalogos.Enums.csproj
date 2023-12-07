@@ -7,6 +7,7 @@
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <Authors>AR Software</Authors>
     <Description>Enumeraciones de los catalogos de CFDI.</Description>
+    <Version>1.0.0</Version>
   </PropertyGroup>
 
   <ItemGroup>
